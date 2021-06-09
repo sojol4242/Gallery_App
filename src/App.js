@@ -19,7 +19,7 @@ function App() {
   }, [term]);
 
   return (
-    <div className="container m-auto">
+    <div className="container m-10 px-0">
       <ImageSearch searchText={(text) => setTerm(text)} />
 
       {!isLoading && images.length === 0 && <h1 className="text-5xl text-center mx-auto mt-32">No Images Found</h1> }
