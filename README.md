@@ -1,6 +1,9 @@
-Start with Tailwind CSS.
+# Start with Tailwind CSS.
 
-<h1>project name: Gallery App</h1>
+# Project name:
+```
+ Gallery App 
+```
 <h2>API: https://pixabay.com/api/</h2>
 <h3>Live site: https://gallery-app-d4e4b.web.app/</h3>
 <h4>
